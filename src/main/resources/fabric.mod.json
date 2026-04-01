@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "vauchcheck",
+  "version": "${version}",
+  "name": "Vauch Check",
+  "description": "In-game Vauch checking macro.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [ "com.example.vauch.VauchCheck" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.10 <=1.21.11",
+    "fabric-api": "*"
+  }
+}
