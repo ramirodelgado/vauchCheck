@@ -1,0 +1,10 @@
+.gradle
+.gralde/
+./.gradle/*
+./build
+./gradle
+./run
+./.gitignore
+./scaffold.sh
+./gradlew
+./gradlew.bat
